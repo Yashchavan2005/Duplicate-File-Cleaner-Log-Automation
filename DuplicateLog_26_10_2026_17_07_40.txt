@@ -1,0 +1,17 @@
+=========================================
+      DUPLICATE FILE REPORT
+=========================================
+
+Author : Yash Chavan
+Project Date : 26-10-2026
+Scan Date : 26-10-2026
+Scan Time : 17:07:40
+Directory : Test_Folder
+Total Files Scanned : 1
+Duplicate Groups Found : 0
+
+
+-----------------------------------------
+Total Duplicate Files Deleted : 0
+Total Time Required : 0.03 Seconds
+-----------------------------------------
